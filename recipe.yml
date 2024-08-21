@@ -1,0 +1,13 @@
+name: 'EzContent Media'
+description: "Adds all the media types."
+install:
+  - dropzonejs:dropzonejs_eb_widget
+  - libraries:libraries
+  - media_entity_browser:media_entity_browser
+  - video_embed_field:video_embed_media
+  - blazy:blazy
+  - media_entity_slideshow:media_entity_slideshow
+  - slick:slick
+  - media_entity_instagram:media_entity_instagram
+  - media_entity_twitter:media_entity_twitter
+  - image_widget_crop:image_widget_crop
